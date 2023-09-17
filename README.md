@@ -1,8 +1,8 @@
 # Hello, My name is Robbie
 
-Pronouns: They/He
-Email: RobbieStoffel@gmail.com
-School: North Carolina School of Science and Math
+* They/He
+* RobbieStoffel@gmail.com
+* North Carolina School of Science and Math in Durham ('25)
 
 ## Repos
 
