@@ -8,7 +8,7 @@
 
 I keep almost all of my repos private currenly, so there isn't much to see.
 
-## Expierence
+## Experience
 
 * Vim, TMUX, Bash, Linux
 * Discord Bot Development
