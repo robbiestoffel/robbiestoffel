@@ -1,20 +1,21 @@
 # Hello, My name is Robbie
 
-* They/He
-* RobbieStoffel@gmail.com
-* North Carolina School of Science and Math in Durham ('25)
+* Pronouns: they/them
+* Email: RobbieStoffel@gmail.com
+* School: North Carolina School of Science and Math in Durham ('25)
 
 ## Repos
 
-I keep almost all of my repos private currenly, so there isn't much to see.
+I keep almost all of my repos private currently, so there isn't much to see.
 
-## Experience
+## Programming Experience
 
+* Next.js, ReactJS, Typescript
 * Vim, TMUX, Bash, Linux
 * Discord Bot Development
-* Minecraft Server Setup/Running/Maintence
+* Minecraft Server Setup/Running/Maintenance
 * Podman & Containers + Virtual Machines
-* SSH/SCP (hard to do anything without this ofc)
+* SSH/SCP (hard to do anything without this of course)
 
   
 
