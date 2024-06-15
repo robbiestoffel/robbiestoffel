@@ -1,4 +1,4 @@
-# Hello, My name is Robbie
+# Hello, my name is Robbie
 
 * Pronouns: they/them
 * Email: RobbieStoffel@gmail.com
@@ -6,7 +6,7 @@
 
 ## Repos
 
-I keep almost all of my repos private currently, so there isn't much to see.
+Almost all of my repos private currently, so there isn't much to see. That said, my best work is public. I also have some stuff still over on Gitlab as well... 
 
 ## Programming Experience
 
