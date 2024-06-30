@@ -15,7 +15,8 @@ Almost all of my repos private currently, so there isn't much to see. That said,
 * Discord Bot Development
 * Minecraft Server Setup/Running/Maintenance
 * Podman & Containers + Virtual Machines
-* SSH/SCP (hard to do anything without this of course)
+* SSH/SCP
+* Git
 
   
 
