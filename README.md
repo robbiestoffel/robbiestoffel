@@ -1,12 +1,12 @@
 # Hello, my name is Robbie
 
 * Pronouns: they/them
-* Email: RobbieStoffel@gmail.com
+* Email: stoffel25r@ncssm.edu
 * School: North Carolina School of Science and Math in Durham ('25)
 
 ## Repos
 
-Almost all of my repos private currently, so there isn't much to see. That said, my best work is public. I also have some stuff still over on Gitlab as well... 
+Almost all of my repos are private currently, so there isn't much to see. That said, my best work is public. I also have some repos over on Gitlab as well. 
 
 ## Programming Experience
 
