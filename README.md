@@ -2,7 +2,7 @@
 
 * Pronouns: they/he/she (in order of preference)
 * Email: robbiestoffel@gmail.com
-* School: University of North Carolina ('29)
+* School: University of North Carolina at Chapel Hill ('29)
 
 ## Repos
 
