@@ -6,7 +6,7 @@
 
 ## Repos
 
-Almost all of my repos are private currently, so there isn't much to see. That said, my best work is public. I also have some repos over on Gitlab as well. 
+Mostly private repos, but feel free to browse the few public projects.
 
 ## Programming Experience
 
