@@ -2,8 +2,8 @@
 
 * Pronouns: they/them
 * Email: robbiestoffel@proton.me
-* School: University of North Carolina at Chapel Hill ('29)
-* Linkedin: [https://www.linkedin.com/in/robbiestoffel]{:target="_blank"}
+* School: University of North Carolina at Chapel Hill (c/o '29)
+* Linkedin: [https://www.linkedin.com/in/robbiestoffel]
 
 ## Repos
 
