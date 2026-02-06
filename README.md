@@ -8,15 +8,14 @@
 
 Mostly private repos, but feel free to browse the few public projects.
 
-## Programming Experience
+## Skills
 
 * Next.js, ReactJS, Typescript
-* Vim, TMUX, Bash, Linux
-* Discord Bot Development
-* Minecraft Server Setup/Running/Maintenance
-* Podman & Containers + Virtual Machines
-* SSH/SCP
-* Git
+* NeoVim, TMUX, Bash
+* Discord Bots
+* Minecraft Servers
+* Podman Containers
+* SSH, Git
 
   
 
