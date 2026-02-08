@@ -11,9 +11,11 @@ Mostly me trying to learn things.
 
 ## Skills
 
-**Languages**: Bash, Typescript, Go, Perl, Python
-**Frameworks**: React, NodeJS, NextJS, PostgreSQL
-**Developer Tools**: Linux, Git, GitHub, Podman, NeoVim, TMUX, SSH
+**Languages**: Bash, Typescript, Go, Perl, Python.
+
+**Frameworks**: React, NodeJS, NextJS, PostgreSQL.
+
+**Developer Tools**: Linux, Git, GitHub, Podman, NeoVim, TMUX, SSH.
 
 <!--
 **robbiestoffel/robbiestoffel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
