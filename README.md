@@ -7,7 +7,7 @@
 
 ## Repos
 
-Mostly me trying to learn things.
+Me learning things to build whatever I think is interesting.
 
 ## Skills
 
