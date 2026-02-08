@@ -7,18 +7,13 @@
 
 ## Repos
 
-Mostly private repos, but feel free to browse the few public projects.
+Mostly me trying to learn things.
 
 ## Skills
 
-* Next.js, ReactJS, Typescript
-* NeoVim, TMUX, Bash
-* Discord Bots
-* Minecraft Servers
-* Podman Containers
-* SSH, Git
-
-  
+**Languages**: Bash, Typescript, Go, Perl, Python
+**Frameworks**: React, NodeJS, NextJS, PostgreSQL
+**Developer Tools**: Linux, Git, GitHub, Podman, NeoVim, TMUX, SSH
 
 <!--
 **robbiestoffel/robbiestoffel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
