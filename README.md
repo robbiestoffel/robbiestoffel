@@ -1,7 +1,7 @@
 # Hello, my name is Robbie
 
 * Pronouns: they/them
-* Email: robbiestoffel@proton.me
+* Email: (mailto:robbiestoffel@proton.me)
 * School: University of North Carolina at Chapel Hill (c/o '29)
 * Linkedin: [https://www.linkedin.com/in/robbiestoffel]
 
